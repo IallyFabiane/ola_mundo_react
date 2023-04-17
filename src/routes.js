@@ -5,7 +5,7 @@ import { BrowserRouter, Route, Routes} from 'react-router-dom';
 
 console.log(window.location);
 
-function App() {
+function AppRoutes() {
   return (
     <BrowserRouter>
       <Menu />
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppRoutes;
