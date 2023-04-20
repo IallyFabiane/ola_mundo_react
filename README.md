@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h2>Project deployed on: https://ola-mundo-react-kappa.vercel.app/</h2>
+
 <h3>Alura</h3>
 
 ## Available Scripts
